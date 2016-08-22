@@ -1,0 +1,14 @@
+layout_spectrum: 0.5067508763168007
+typography_spectrum: 0.8343486580997705
+color:
+  brandStrength: 0.20536001562140882
+  lightness: 0.7402221469674259
+  saturation: 0.2071561487391591
+  rhythmicContrast: 0.17802162538282573
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: submergedaura
